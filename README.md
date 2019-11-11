@@ -34,7 +34,7 @@ export default () => (
 );
 ```
 
-This will display [the top result]() of the `searchTerm` when searched on Duck Duck Go.
+This will display [the top result](http://www.cawfree.com/mapsy/) of the `searchTerm` when searched on Duck Duck Go.
 
 ## ✌️ License
 [MIT](https://opensource.org/licenses/MIT)
