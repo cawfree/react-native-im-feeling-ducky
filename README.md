@@ -6,7 +6,7 @@ A React Native &lt;WebView /> which will navigate to the top result of your inpu
 Using [`npm`]():
 
 ```bash
-npm install --save react-native-im-feeling-lucky
+npm install --save react-native-im-feeling-ducky
 ```
 
 Using [`yarn`]():
