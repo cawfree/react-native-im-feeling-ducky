@@ -22,6 +22,7 @@ The `<FeelingDucky />` component is just a wrapper around a [`WebView`](https://
 ```javascript
 import React from 'react';
 import WebView from 'react-native-webview';
+import FeelingDucky from 'react-native-im-feeling-ducky';
 
 export default () => (
   <FeelingDucky
