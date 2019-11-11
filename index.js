@@ -5,7 +5,7 @@ const FeelingDucky = ({ WebView, searchTerm, ...extraProps }) => (
   <WebView
     {...extraProps}
     source={{
-      uri: typeof searchTerm === 'string' ? `https://duckduckgo.com/?q=!${encodeURIComponent(searchTerm.replace(/ +(?= )/g, '+'))}` : undefined,
+      uri: typeof searchTerm === 'string' ? `https://duckduckgo.com/?q=!ducky+${encodeURIComponent(searchTerm.replace(/ +(?= )/g, '+'))}` : undefined,
     }}
   />
 );
