@@ -18,3 +18,5 @@ FeelingDucky.propTypes = {
 FeelingDucky.propTypes = {
   searchTerm: undefined,
 };
+
+export default FeelingDucky;
